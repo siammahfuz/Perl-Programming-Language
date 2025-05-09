@@ -50,7 +50,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Perl-Programming-Language.git
+git clone https://github.com/siammahfuz/Perl-Programming-Language
 cd Perl-Programming-Language
 Run a sample Perl script:
 
